@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(224, 235, 210);
+    color: rgb(0, 0, 0);
+}
+h1{
+    color: #000000;
+}
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    background-color:white ;
+    border-width: 4px;
+    border-color:gray
+}
+nav{
+    background-color:rgb(132, 126, 146);
+    padding-left:1200px ;
+    word-spacing: 10px;
+    padding-top: 25px;
+    text-decoration: none; 
+}
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    
+}
+nav a:hover{
+    background-color: rgb(27, 0, 160);
+}
+div{
+    font-size: x-large;
+}
+div h2{
+    text-align: center;
+}
+.books table{
+    width: 100%;
+    padding-left: 25%;
+}
+.carrier table{
+    width: 100%;
+}
+
